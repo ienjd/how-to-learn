@@ -5,3 +5,8 @@
   opacity: 1;
   transition: opacity 0.5s;
 }
+
+.header__link:hover {
+  opacity: .5;
+}
+

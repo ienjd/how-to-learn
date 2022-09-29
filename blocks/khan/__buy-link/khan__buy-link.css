@@ -9,4 +9,8 @@
     opacity: 1;
     transition: opacity 0.5s;
   }
+
+  .khan__buy-link:hover {
+    opacity: .5;
+  }
   

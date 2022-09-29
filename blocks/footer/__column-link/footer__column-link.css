@@ -4,3 +4,7 @@
     opacity: 1;
     transition: opacity 0.5s;
   }
+  
+  .footer__column-link:hover {
+    opacity: .5;
+  }

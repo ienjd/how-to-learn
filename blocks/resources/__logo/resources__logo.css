@@ -4,3 +4,7 @@
     opacity: 1;
     transition: opacity 0.5s;
   }
+  
+.resources__logo:hover {
+    opacity: .5;
+  }
